@@ -10,7 +10,7 @@ URL video snapshots.
 
 ## API
 
-2. /screenshots
+base_url/screenshots
    ```bash
    video_path: path to video
    num_frames: total number of screenshots
